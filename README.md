@@ -1,6 +1,7 @@
 # evenOdd
 [![Build Status](http://10.160.1.106:8080/buildStatus/icon?job=Shared-libraries-pipe)](http://10.160.1.106:8080/job/Shared-libraries-pipe/)
 
+
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
 Add this as a shared library called evenOdd in your jenkins
